@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+requests
+jsonlib-python3
+pickle5
+regex
+numpy
+concurrent.futures
